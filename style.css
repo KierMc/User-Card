@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 700px;
+    height: 250px;
+    margin: 0 auto;
+    border: 2px solid gray;
+}
+
+.body{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.topbar{
+    background-color: rgb(10, 155, 155);
+}
+
+.user{
+    height: 60px;
+    display: block;
+    position: relative;
+    top: 30px;
+    left: 15px;
+}
+
+.map {
+    display: inline;
+    height: 15px;
+}
+
+h3{
+    display: inline-block;
+
+}
+
+.p1 {
+    margin-top: 10px;
+}
+
+h2{
+    margin-bottom: 10px;
+}
+
+a {
+    display: inline-block;
+    color: blue;
+}
+
+.gear{
+    display: inline;
+    height: 13px;
+    margin-top: 20px;
+    margin-right: 5px;
+}
